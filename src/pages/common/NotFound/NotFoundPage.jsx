@@ -2,7 +2,7 @@ import React from 'react';
 const NotFoundPage = () => {
   return (
     <div>
-      <span>Pagina nu a fost gasita</span>
+      <span>The page you're looking for does not exist.</span>
     </div>
   );
 };
